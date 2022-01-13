@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG Element
+    uniqueID: 1591674553
+    locked: 0
+  - name: Props
+    uniqueID: 541985201
+    locked: 0
