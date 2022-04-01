@@ -8,12 +8,12 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Grid Tilemap
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Inactive Elements
+  - Player
+  - Active Elements
   - 
   - 
   - 
